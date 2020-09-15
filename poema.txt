@@ -5,5 +5,6 @@ rosa
 noranja
 azul
 verde
+amarillo
 rojo            
 son los colores del arcoiris.
