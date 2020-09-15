@@ -4,5 +4,6 @@ puepura
 rosa
 noranja
 azul
-rojo
+verde
+rojo            
 son los colores del arcoiris.
